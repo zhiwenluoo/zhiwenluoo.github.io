@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiwen Luo (罗智文)"
+title                    : "Zhiwen Luo"
 description              : "Ph.D. Candidate, Concordia University INSE"
 repository               : "zluo-luck/zluo-luck.github.io"
 google_scholar_stats_use_cdn : true
