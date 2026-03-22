@@ -17,7 +17,7 @@
 ## 2025
 
 - `BIBM 2025` [BiovMNVTM: A Geometry-Aware Neural Topic Model for Biomedical Text Analysis via von Mises–Fisher Mixtures](), Dayu Guo\*, **Zhiwen Luo**\*, Nizar Bouguila, Wentao Fan. *IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2025)*. (Acceptance rate: 19.8%)
-- `KDD 2025` [Dynamic Deep Clustering of High-Dimensional Directional Data via Hyperspherical Embeddings with Bayesian Nonparametric Mixtures](), **Zhiwen Luo**, Wentao Fan, Manar Amayri, Nizar Bouguila. *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)*. (Acceptance rate: ~19%).
+- `KDD 2025` [Dynamic Deep Clustering of High-Dimensional Directional Data via Hyperspherical Embeddings with Bayesian Nonparametric Mixtures](), **Zhiwen Luo**, Wentao Fan, Manar Amayri, Nizar Bouguila. *Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)*. (Acceptance rate: 19%).
 - `NN` [Disentangled Representation Learning for Multi-View Clustering via von Mises-Fisher Hyperspherical Embedding](), Zhixiang Li\*, **Zhiwen Luo**\*, Nizar Bouguila, Weifeng Su, Wentao Fan. *Neural Networks*.
 - `DSAA 2025` [High-Dimensional Axial Data Clustering via Watson Mixture Variational Autoencoder](https://dsaa.ieee.org/2025/journal-track/), **Zhiwen Luo**, Wentao Fan, Manar Amayri, Nizar Bouguila. *IEEE DSAA 2025 Machine Learning Journal Track*.
 
