@@ -4,12 +4,13 @@
 
 ## 2026
 
-<!-- - `TKDD 2026` [Hyperspherical Representation Learning of Axial Data via Axial VAEs with Watson Distribution](), **Zhiwen Luo**, Wentao Fan, Manar Amayri, Nizar Bouguila. *ACM Transactions on Knowledge Discovery from Data (TKDD)*, Accepted.
+<!-- 
 - `IJCNN 2026` [SpikeDiffusion: A Fully Spiking Structure-Guided Diffusion Framework for Energy-Efficient Image Generation](), Xue Han\*, **Zhiwen Luo**\*, Wenchuan Zhang, Nizar Bouguila, Weifeng Su, Wentao Fan. *Proceedings of IEEE/INNS IJCNN 2026*, Accepted.
 - `ICME 2026` [Hyperspherical Incomplete Multi-View Clustering with Spherical Sliced-Wasserstein Coherence](), **Zhiwen Luo**, Wentao Fan, Manar Amayri, Nizar Bouguila. *Proceedings of IEEE ICME 2026*, Accepted. (Acceptance rate: 28%)
 - `ICME 2026` [FedVaDE: Federated Variational Deep Embedding for Privacy-Preserving Generative Clustering](), Shenghong Cai\*, **Zhiwen Luo**\*, Nizar Bouguila, Wentao Fan. *Proceedings of IEEE ICME 2026*, Accepted. (Acceptance rate: 28%)
 - `ICASSP 2026` [ST-HNTM: Joint Speech-Text Neural Topic Modeling on the Hypersphere](), Dayu Guo\*, **Zhiwen Luo**\*, Nizar Bouguila, Wentao Fan. *Proceedings of IEEE ICASSP 2026*, Accepted.
 - `WWW 2026` [Multimodal Topic Discovery in Web Media via von Mises–Fisher Mixture Neural Topic Models](), Dayu Guo\*, **Zhiwen Luo**\*, Nizar Bouguila, Wentao Fan. *Proceedings of The Web Conference 2026*, Accepted. (Acceptance rate: 23%) -->
+- `ACM TKDD` [Hyperspherical Representation Learning of Axial Data via Axial VAEs with Watson Distribution](), **Zhiwen Luo**, Wentao Fan, Manar Amayri, Nizar Bouguila. *ACM Transactions on Knowledge Discovery from Data (TKDD)*.
 - `Neurocomputing` [Adaptive Deep Clustering via Disentangled Hyperspherical VAEs With Contrastive Geometry Optimization](), **Zhiwen Luo**, Wentao Fan, Manar Amayri, Nizar Bouguila. *Neurocomputing*.
 - `NN` [Neural Topic Modeling on Hyperspheres: Spherical Representation Learning with von Mises-Fisher Mixtures](), Dayu Guo\*, **Zhiwen Luo**\*, Nizar Bouguila, Wentao Fan. *Neural Networks*.
 - `JDSA` [Flexible Priors for Cross-Collection Topic Modeling: An Approach with Generalized Dirichlet and Beta-Liouville Distributions](), **Zhiwen Luo**, Wentao Fan, Manar Amayri, Nizar Bouguila. *International Journal of Data Science and Analytics (JDSA)*.
