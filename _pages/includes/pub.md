@@ -5,7 +5,7 @@
 ## 2026
 
 <!-- 
-- `WWW 2026` [MSW-NTM: A Spherical Wasserstein Autoencoder for Multimodal Neural Topic Modeling with LLM-Guided Topic Refinement](), D. Guo\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of SIGIR 2026*, Accepted. (Acceptance rate: 27%) -->
+- `WWW 2026` [MSW-NTM: A Spherical Wasserstein Autoencoder for Multimodal Neural Topic Modeling with LLM-Guided Topic Refinement](), D. Guo\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of SIGIR 2026*, Accepted. (Acceptance rate: 27%)
 - `IJCNN 2026` [SpikeDiffusion: A Fully Spiking Structure-Guided Diffusion Framework for Energy-Efficient Image Generation](), X. Han\*, **Zhiwen Luo**\*, W. Zhang, N. Bouguila, W. Su, W. Fan. *Proceedings of IEEE/INNS IJCNN 2026*, Accepted.
 - `ICME 2026` [Hyperspherical Incomplete Multi-View Clustering with Spherical Sliced-Wasserstein Coherence](), **Zhiwen Luo**, W. Fan, M. Amayri, N. Bouguila. *Proceedings of IEEE ICME 2026*, Accepted. (Acceptance rate: 28%)
 - `ICME 2026` [FedVaDE: Federated Variational Deep Embedding for Privacy-Preserving Generative Clustering](), S. Cai\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of IEEE ICME 2026*, Accepted. (Acceptance rate: 28%)
