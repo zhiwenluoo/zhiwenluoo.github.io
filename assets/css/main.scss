@@ -107,3 +107,16 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.author__avatar {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.author__avatar img {
+  border-radius: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+  object-fit: contain !important;
+}
