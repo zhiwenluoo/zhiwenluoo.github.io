@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiwen Luo"
-description              : "Ph.D., Concordia University"
+title                    : "Zhiwen Luo (罗智文)"
+description              : "Assistant Professor at Beijing Normal-Hong Kong Baptist University"
 repository               : "zhiwenluoo/zhiwenluoo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Zhiwen Luo"
   avatar           : "images/avatar.png"
   bio              : ""
-  location         : "Montreal, Canada"
+  location         : "Zhuhai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=dD_Yxd4AAAAJ&hl=en"
-  email            : "zhiwen.luo@mail.concordia.ca"
+  email            : "zhiwenluo@bnbu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
