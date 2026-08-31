@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiwen Luo"
+title                    : "Zhiwen Luo (罗智文)"
 description              : "Assistant Professor at Beijing Normal-Hong Kong Baptist University"
 repository               : "zhiwenluoo/zhiwenluoo.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhiwen Luo (罗智文)"
+  name             : "Zhiwen Luo"
   avatar           : "images/avatar.png"
   bio              : ""
   location         : "Zhuhai, China"
