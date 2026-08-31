@@ -6,4 +6,4 @@ My work has been published or accepted at venues including **KDD, ACM MM, SIGIR,
 
 ### Prospective Students
 
-I am always looking for motivated students who are interested in **multimodal learning and generative artificial intelligence**. If you are interested in my research or would like to explore potential research collaborations, please feel free to contact me.
+I am always looking for motivated students who are interested in **multimodal learning and deep generative models**. If you are interested in my research or would like to explore potential research collaborations, please feel free to contact me.
