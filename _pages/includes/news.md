@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.09*: 🎉 A paper is accepted by NeurIPS 2026.
 - *2026.08*: 🎓 I joined Beijing Normal-Hong Kong Baptist University (BNBU) as an Assistant Professor.
 - *2026.08*: 🎉 A paper is accepted by EMNLP 2026.
 - *2026.07*: 🎉🎉 Two papers are accepted by ACM Multimedia 2026.
