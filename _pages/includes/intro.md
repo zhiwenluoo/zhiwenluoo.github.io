@@ -2,7 +2,7 @@ I am an Assistant Professor in the **Department of Computer Science at Beijing N
 
 My research interests include **machine learning**, **generative artificial intelligence**, **multimodal learning**, **geometric representation learning**, and **deep clustering**. My recent research focuses on probabilistic and geometry-aware representation learning, including hyperspherical representation learning, deep generative models, deep clustering, and multimodal learning.
 
-My work has been published or accepted at venues including **KDD, ACM MM, SIGIR, WWW, IJCAI, EMNLP, ICME, ICASSP**, *ACM Transactions on Knowledge Discovery from Data*, *Neural Networks*, *Expert Systems with Applications*, *Neurocomputing*, and *Applied Intelligence*.
+My work has been published or accepted at venues including **NeurIPS, KDD, ACM MM, SIGIR, WWW, IJCAI, EMNLP, ICME, ICASSP**, *ACM Transactions on Knowledge Discovery from Data*, *Neural Networks*, *Expert Systems with Applications*, *Neurocomputing*, and *Applied Intelligence*.
 
 ### Prospective Students
 
