@@ -6,4 +6,4 @@ My work has been published or accepted at venues including **NeurIPS, KDD, ACM M
 
 ### Prospective Students
 
-I am recruiting motivated **MPhil students and Research Assistants (RAs)** interested in **multimodal learning and deep generative models**. If you are interested in joining my research group, please email me your **CV**.
+I am recruiting motivated **PhD students and Research Assistants (RAs)** interested in **multimodal learning and deep generative models**. If you are interested in joining my research group, please email me your **CV**.
