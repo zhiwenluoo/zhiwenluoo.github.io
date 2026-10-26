@@ -5,9 +5,11 @@
 ## 2026
 
 <!-- 
-- `IJCNN 2026` [SpikeDiffusion: A Fully Spiking Structure-Guided Diffusion Framework for Energy-Efficient Image Generation](), X. Han\*, **Zhiwen Luo**\*, W. Zhang, N. Bouguila, W. Su, W. Fan. *Proceedings of IEEE/INNS IJCNN 2026*, Accepted.
 - `ICME 2026` [Hyperspherical Incomplete Multi-View Clustering with Spherical Sliced-Wasserstein Coherence](), **Zhiwen Luo**, W. Fan, M. Amayri, N. Bouguila. *Proceedings of IEEE ICME 2026*, Accepted. (Acceptance rate: 28%)
 - `ICME 2026` [FedVaDE: Federated Variational Deep Embedding for Privacy-Preserving Generative Clustering](), S. Cai\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of IEEE ICME 2026*, Accepted. (Acceptance rate: 28%)-->
+
+- `TNNLS` [Contrastive Representation Learning With Hyperbolic Embedding for Fused Multiview Hierarchical Clustering](), Z. Li, **Zhiwen Luo**, X. Han, N. Bouguila, W. Su, W. Fan. *IEEE Transactions on Neural Networks and Learning Systems*.
+- `IJCNN 2026` [SpikeDiffusion: A Fully Spiking Structure-Guided Diffusion Framework for Energy-Efficient Image Generation](), X. Han, **Zhiwen Luo**, W. Zhang, N. Bouguila, W. Su, W. Fan. *Proceedings of IJCNN 2026*, pp. 1–6.
 - `IJCAI 2026` [HyperXRec: Unifying Preference Clusters and LLM Experts for Robust Explainable Recommendations](), X. Han\*, **Zhiwen Luo**\*, Z. Li, N. Bouguila, W. Su, W. Fan. *Proceedings of IJCAI 2026*
 - `SIGIR 2026` [MSW-NTM: A Spherical Wasserstein Autoencoder for Multimodal Neural Topic Modeling with LLM-Guided Topic Refinement](), D. Guo\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of SIGIR 2026*, (Acceptance rate: 27%)
 - `ICASSP 2026` [ST-HNTM: Joint Speech-Text Neural Topic Modeling on the Hypersphere](), D. Guo\*, **Zhiwen Luo**\*, N. Bouguila, W. Fan. *Proceedings of IEEE ICASSP 2026*.
