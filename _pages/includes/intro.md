@@ -7,4 +7,5 @@ My work has been published or accepted at venues including **NeurIPS, KDD, ACM M
 ### Prospective Students
 
 **Cutting-edge topics, supportive team, fast-track publications. All we need is you.**
+
 **2027 PhD & Master's openings available.**
